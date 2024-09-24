@@ -59,24 +59,26 @@ function randomAttack() {
 * Node: 16~22(`v16.20.2(已验证)`)
 * Yarn: (`v1.22.19(已验证)`)
 * npm: (`v8.1.3(已验证)`)
-```
-npm install
-```
+### 安装及运行
+1. 安装依赖
+        ```
+        npm install
+        ```
 
-#### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. Compiles and hot-reloads for development
+        ```
+        npm run serve
+        ```
 
-#### Compiles and minifies for production
-```
-npm run build
-```
+3. Compiles and minifies for production
+        ```
+        npm run build
+        ```
 
-#### Lints and fixes files
-```
-npm run lint
-```
+4. Lints and fixes files
+        ```
+        npm run lint
+        ```
 
-#### Customize configuration
+### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
