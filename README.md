@@ -61,24 +61,24 @@ function randomAttack() {
 * npm: (`v8.1.3(已验证)`)
 ### 安装及运行
 1. 安装依赖
-        ```
-        npm install
-        ```
+   ```
+   npm install
+   ```
 
 2. Compiles and hot-reloads for development
-        ```
-        npm run serve
-        ```
+   ```
+   npm run serve
+   ```
 
 3. Compiles and minifies for production
-        ```
-        npm run build
-        ```
+   ```
+   npm run build
+   ```
 
 4. Lints and fixes files
-        ```
-        npm run lint
-        ```
+   ```
+   npm run lint
+   ```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
