@@ -1,5 +1,5 @@
 # CTF竞赛结果演示大屏 | CTF Defence 3D Screen
-![image](https://github.com/user-attachments/assets/ebabf3b4-4de9-4915-b386-15a353910846)
+![image](assets/20240925024826.png)
 
 ## 一. ctf-awd大屏渲染流程
 ### 1. 加载模型（飞机模型、城市模型），加载立方体贴图（用于天空盒），加载地面贴图，用于构建地面纹理；加载队伍和靶标数据。
